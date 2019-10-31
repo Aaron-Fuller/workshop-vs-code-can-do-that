@@ -6,7 +6,7 @@ let goButton = document.getElementById("goButton");
 let colorInput = document.getElementById("colorInput");
 let currentColor = document.getElementById("currentColor");
 let bulb = document.getElementById("bulb");
-
+//comment
 class App {
   /**
    * Initalize the page and websocket connection
